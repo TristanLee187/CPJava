@@ -81,6 +81,7 @@ public class Template {
     /*
      ************************* PUT CODE HERE *************************
      */
+    static int mod = (int) Math.pow(10,9)+7;
     public static void main(String[] args) {
 
     }
