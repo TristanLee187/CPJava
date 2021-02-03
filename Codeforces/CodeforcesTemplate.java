@@ -43,7 +43,7 @@ public class CodeforcesTemplate {
         }
     }
 
-    FastScanner input = new FastScanner();
+    static FastScanner input = new FastScanner();
 
     /*
      *************************OUTPUT*************************
