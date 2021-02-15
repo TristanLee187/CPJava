@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class D {
+public class D_TLE {
     /*
      *************************INPUT*************************
      */
