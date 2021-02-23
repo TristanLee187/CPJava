@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdfa6680-5845-41c2-95a0-6dc95fe0702b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSES/Sorting/MovieFestival.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSES/Sorting/RestaurantCustomers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSES/Sorting/SumOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/DP/EditDistance$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/DP/EditDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/DP/EditDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ndK7h8ihz65OHerpGoerLSdnWG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -35,6 +38,7 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -124,5 +128,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
